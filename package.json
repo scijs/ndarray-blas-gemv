@@ -1,6 +1,6 @@
 {
   "name": "ndarray-blas-gemv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BLAS Level 2 GEMV (Matrix-Vector multiply) for ndarrays",
   "main": "lib/index.js",
   "author": "Ricky Reusser",

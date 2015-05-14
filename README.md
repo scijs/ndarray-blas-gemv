@@ -23,7 +23,7 @@ gemv( -4, A, x, 2, y )
 // Result: y = [-34, -8]
 ```
 
-Note that to multiply by the transpose, you can simply transpose the input.
+To multiply using the transpose of A, you can simply use `.transpose(1,0)` to transpose the input (note that this calculates new strides and offsets but does not rearrange the physical memory).
 
 ```javascript
 var A = ndarray([1,2,5,3], [2,2]),
