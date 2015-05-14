@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/scijs/ndarray-blas-gemv.svg?branch=master)](https://travis-ci.org/scijs/ndarray-blas-gemv) [![npm version](https://badge.fury.io/js/ndarray-blas-gemv.svg)](http://badge.fury.io/js/ndarray-blas-gemv) [![Dependency Status](https://david-dm.org/scijs/ndarray-blas-gemv.svg)](https://david-dm.org/scijs/ndarray-blas-gemv)
 
-BLAS Level 2 GEMV (triangular solve) for [ndarrays](https://github.com/scijs/ndarray)
+BLAS Level 2 GEMV (matrix-vector multiply) for [ndarrays](https://github.com/scijs/ndarray)
 
 ## Usage
 
