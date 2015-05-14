@@ -12,7 +12,7 @@ Calculate `y <- alpha * A * x + beta * y` for scalar alpha, matrix A, vector x, 
 ## Example
 
 ```javascript
-var gemv require('ndarray-blas-gemv')
+var gemv = require('ndarray-blas-gemv')
 
 var A = ndarray([1,2,5,3], [2,2]),
     x = ndarray([-4,7]),
